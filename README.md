@@ -1,0 +1,1 @@
+# solution.object.js
